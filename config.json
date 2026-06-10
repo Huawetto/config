@@ -1,0 +1,15 @@
+{
+  "minimumVersion": "09.06.26",
+  "latestVersion": "09.06.26",
+
+  "forceUpdate": false,
+
+  "maintenance": false,
+  "maintenanceMessage": "Server in manutenzione",
+
+  "announcementEnabled": true,
+  "announcementTitle": "Aggiornamento!",
+  "announcementText": "Nuova versione disponibile!",
+
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.HuawettoGames.huawettoMega"
+}
